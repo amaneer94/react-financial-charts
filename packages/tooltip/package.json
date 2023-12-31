@@ -1,5 +1,5 @@
 {
-    "name": "@react-financial-charts/tooltip",
+    "name": "@amanzargar/tooltip",
     "version": "2.0.0",
     "description": "Tooltips for react-financial-charts",
     "publishConfig": {
