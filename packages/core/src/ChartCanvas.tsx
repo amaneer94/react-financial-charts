@@ -427,7 +427,7 @@ export class ChartCanvas<TXAxis extends number | Date> extends React.Component<
 > {
     public static defaultProps = {
         clamp: false,
-        className: "react-financial-charts",
+        className: "@amanzargar/react-financial-charts",
         defaultFocus: true,
         disablePan: false,
         disableInteraction: false,

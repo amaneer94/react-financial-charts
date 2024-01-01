@@ -90,6 +90,6 @@
     "@amanzargar/stories": "file:packages/stories",
     "@amanzargar/tooltip": "file:packages/tooltip",
     "@amanzargar/utils": "file:packages/utils",
-    "react-financial-charts": "file:packages/charts"
+    "@amanzargar/react-financial-charts": "file:packages/charts"
   }
 }

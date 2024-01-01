@@ -16,6 +16,6 @@
         "d3-time-format": "^3.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
-        "react-financial-charts": "file:../charts"
+        "@amanzargar/react-financial-charts": "file:../charts"
     }
 }
