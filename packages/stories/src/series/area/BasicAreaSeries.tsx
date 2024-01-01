@@ -1,9 +1,9 @@
 import * as React from "react";
-import { Chart, ChartCanvas } from "@react-financial-charts/core";
-import { XAxis, YAxis } from "@react-financial-charts/axes";
-import { discontinuousTimeScaleProviderBuilder } from "@react-financial-charts/scales";
-import { AreaSeries, AreaSeriesProps } from "@react-financial-charts/series";
-import { withDeviceRatio, withSize } from "@react-financial-charts/utils";
+import { Chart, ChartCanvas } from "@amanzargar/core";
+import { XAxis, YAxis } from "@amanzargar/axes";
+import { discontinuousTimeScaleProviderBuilder } from "@amanzargar/scales";
+import { AreaSeries, AreaSeriesProps } from "@amanzargar/series";
+import { withDeviceRatio, withSize } from "@amanzargar/utils";
 import { IOHLCData, withOHLCData } from "../../data";
 
 interface ChartProps extends Partial<AreaSeriesProps> {

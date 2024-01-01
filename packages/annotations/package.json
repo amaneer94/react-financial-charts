@@ -42,7 +42,7 @@
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
     },
     "dependencies": {
-        "@react-financial-charts/core": "file:../core",
+        "@amanzargar/core": "file:../core",
         "@types/d3-scale": "^3.2.2"
     }
 }

@@ -34,16 +34,16 @@
         "compile": "tsc -p tsconfig.json"
     },
     "dependencies": {
-        "@react-financial-charts/annotations": "file:../annotations",
-        "@react-financial-charts/axes": "file:../axes",
-        "@react-financial-charts/coordinates": "file:../coordinates",
-        "@react-financial-charts/core": "file:../core",
-        "@react-financial-charts/indicators": "file:../indicators",
-        "@react-financial-charts/interactive": "file:../interactive",
-        "@react-financial-charts/scales": "file:../scales",
-        "@react-financial-charts/series": "file:../series",
-        "@react-financial-charts/tooltip": "file:../tooltip",
-        "@react-financial-charts/utils": "file:../utils"
+        "@amanzargar/annotations": "file:../annotations",
+        "@amanzargar/axes": "file:../axes",
+        "@amanzargar/coordinates": "file:../coordinates",
+        "@amanzargar/core": "file:../core",
+        "@amanzargar/indicators": "file:../indicators",
+        "@amanzargar/interactive": "file:../interactive",
+        "@amanzargar/scales": "file:../scales",
+        "@amanzargar/series": "file:../series",
+        "@amanzargar/tooltip": "file:../tooltip",
+        "@amanzargar/utils": "file:../utils"
     },
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
