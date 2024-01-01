@@ -1,6 +1,6 @@
 {
-    "name": "react-financial-charts",
-    "version": "2.0.6",
+    "name": "@amanzargar/react-financial-charts",
+    "version": "2.0.7",
     "description": "React charts specific to finance.",
     "main": "./lib/index.js",
     "typings": "./lib/index.d.ts",
@@ -34,19 +34,20 @@
         "compile": "tsc -p tsconfig.json"
     },
     "dependencies": {
-        "@amanzargar/annotations": "file:../annotations",
-        "@amanzargar/axes": "file:../axes",
-        "@amanzargar/coordinates": "file:../coordinates",
-        "@amanzargar/core": "file:../core",
-        "@amanzargar/indicators": "file:../indicators",
-        "@amanzargar/interactive": "file:../interactive",
-        "@amanzargar/scales": "file:../scales",
-        "@amanzargar/series": "file:../series",
-        "@amanzargar/tooltip": "file:../tooltip",
-        "@amanzargar/utils": "file:../utils"
+        "@amanzargar/annotations": "^2.0.6",
+        "@amanzargar/axes": "^2.0.6",
+        "@amanzargar/coordinates": "^2.0.6",
+        "@amanzargar/core": "^2.0.6",
+        "@amanzargar/indicators": "^2.0.6",
+        "@amanzargar/interactive": "^2.0.6",
+        "@amanzargar/scales": "^2.0.6",
+        "@amanzargar/series": "^2.0.6",
+        "@amanzargar/tooltip": "^2.0.6",
+        "@amanzargar/utils": "^2.0.6"
     },
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "gitHead": "2dc47885717b27e3910f39170c7932e8799833bd"
 }
