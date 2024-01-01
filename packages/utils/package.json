@@ -1,6 +1,6 @@
 {
     "name": "@amanzargar/utils",
-    "version": "2.0.1",
+    "version": "2.0.6",
     "description": "Utils for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -43,5 +43,6 @@
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "gitHead": "a89328074a7ca44530a8a0decad0f8f72770ea21"
 }

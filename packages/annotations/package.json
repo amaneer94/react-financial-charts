@@ -1,6 +1,6 @@
 {
     "name": "@amanzargar/annotations",
-    "version": "2.0.0",
+    "version": "2.0.6",
     "description": "Annotations for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -42,7 +42,8 @@
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
     },
     "dependencies": {
-        "@amanzargar/core": "file:../core",
+        "@amanzargar/core": "^2.0.0",
         "@types/d3-scale": "^3.2.2"
-    }
+    },
+    "gitHead": "a89328074a7ca44530a8a0decad0f8f72770ea21"
 }

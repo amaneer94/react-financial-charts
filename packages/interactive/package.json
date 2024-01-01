@@ -1,6 +1,6 @@
 {
     "name": "@amanzargar/interactive",
-    "version": "2.0.0",
+    "version": "2.0.6",
     "description": "Interactive features for react-financial-charts",
     "publishConfig": {
         "access": "public"
@@ -38,8 +38,8 @@
         "watch": "tsc -p tsconfig.json --watch --preserveWatchOutput"
     },
     "dependencies": {
-        "@amanzargar/coordinates": "file:../coordinates",
-        "@amanzargar/core": "file:../core",
+        "@amanzargar/coordinates": "^2.0.0",
+        "@amanzargar/core": "^2.0.0",
         "d3-array": "^2.9.1",
         "d3-format": "^2.0.0",
         "d3-interpolate": "^2.0.1",
@@ -48,5 +48,6 @@
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "gitHead": "a89328074a7ca44530a8a0decad0f8f72770ea21"
 }
